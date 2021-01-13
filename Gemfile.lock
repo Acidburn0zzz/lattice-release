@@ -38,7 +38,7 @@ GEM
     builder (3.2.2)
     cf-uaa-lib (3.2.4)
       multi_json
-    excon (0.45.4)
+    excon (0.78.1)
     fission (0.5.0)
       CFPropertyList (~> 2.2)
     fog (1.31.0)
